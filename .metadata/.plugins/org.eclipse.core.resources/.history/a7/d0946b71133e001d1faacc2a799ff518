@@ -1,0 +1,43 @@
+package project1;
+
+import java.util.StringTokenizer;
+
+public class Project1 {
+   public static TextFileInput myFile;
+   public static StringTokenizer myTokens;
+   public static String line;
+   public static String sentence;
+   public static String [] input;
+   public static char upperCaseVowels;
+   public static char lowerCaseVowels;
+   public static int length;
+
+    public static void main(String[] args) {
+        input = new String [1000];
+        length = 0;
+        myFile = new TextFileInput("input.txt");
+        line = myFile.readLine();
+        System.out.println("The first line is " + line);
+        for(int i = 0; i <line.length(); i++) {
+           if(line.charAt(i) == 'A' || line.charAt(i) == 'a') {
+            length++;
+           }
+        } //for loop
+        System.out.println("There are " + length + " letter a vowels in the line");
+        
+        line = myFile.readLine();
+        while(line != null) {
+            input[length] = sentence;
+            for(int i = 0; i <sentence.length(); i++) {
+                if(line.charAt(i) == 'a' || line.charAt(i) == 'A' ||line.charAt(i) == 'e'
+                        || line.charAt(i) == 'E' || line.charAt(i) == 'i' || line.charAt(i) == 'I' ||
+                                line.charAt(i) == 'o' || line.charAt(i) == '0' || line.charAt(i)== 'u' ||
+                                        line.charAt(i) == 'U');
+                length++;
+            }
+        }
+        myFile.close();
+        System.out.println("There are " + length + " letter a vowels in the line");
+    }// main
+}//class
+
