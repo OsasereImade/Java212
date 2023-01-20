@@ -10,9 +10,10 @@ public class TwoDimArray {
             }
             private static void printArray (int[][] theArray) {
                for (int i=0; i<theArray.length; i++) {
-                  for (int j=0; j<theArray[i].length;j++)
+                  for (int j=0; j<theArray[i].length;j++) {
                      display(theArray[i][j]);
-                  System.out.println();
+                  }
+                    System.out.println(); 
                }
             }
             private static void display (int num){
@@ -20,7 +21,7 @@ public class TwoDimArray {
             }
             private static void printArrayEven(int[][] theArray){
                for(int i = 0; i <theArray.length; i++) {
-                   for (int j = 0; j < theArray.length; j++) {
+                   for (int j = 0; j < theArray[i].length; j++) {
                        if(theArray[i][j] %2 != 0) {
                            System.out.print("*" + " ");
                        }//end of if condition

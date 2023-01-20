@@ -24,7 +24,7 @@ public class Lab8 {
             }
             private static void printArrayEven(int[][] theArray){
                for(int i = 0; i <theArray.length; i++) {
-                   for (int j = 0; j < theArray.length; j++) {
+                   for (int j = 0; j < theArray[i].length; j++) {
                        if(theArray[i][j] %2 != 0) {
                            System.out.print("*" + " ");
                        }//end of if condition

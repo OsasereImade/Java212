@@ -2,4 +2,39 @@
 <section name="Workbench">
 	<section name="NewWizardAction">
 	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\imade\Downloads\Project4.jar"/>
+			<item value="C:\Users\imade\Downloads\Project3 (1).jar"/>
+			<item value="C:\Users\imade\Downloads\Project3.jar"/>
+			<item value="C:\Users\imade\Downloads\RegexExamples.jar"/>
+			<item value="C:\Users\imade\Desktop\Project2.jar"/>
+			<item value="C:\Users\imade\Downloads\Project1.jar"/>
+			<item value="C:\Users\imade\Desktop\Project1 (1).jar"/>
+			<item value="C:\Users\imade\Desktop\Java 212\Project1.jar"/>
+			<item value="C:\Users\imade\Desktop\Java 212\Project2.jar"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\imade\Desktop\Java 212"/>
+		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+	<section name="ZipFileExportWizard">
+	</section>
 </section>

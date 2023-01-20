@@ -28,7 +28,7 @@ import javax.swing.JOptionPane;
         }// end of TextFileInput
 
 
-            public static int sum(int[] myArray, int myArraySize) {
+            private static int sum(int[] myArray, int myArraySize) {
                 int sum = 0;
                 for(int i = 0; i < myArraySize; i++) {
                     sum += myArray[i];
@@ -36,7 +36,7 @@ import javax.swing.JOptionPane;
                 return sum;
             }
 
-            public static int average(int[] myArray, int myArraySize) {
+            private static int average(int[] myArray, int myArraySize) {
                 return sum(myArray, myArraySize) / myArraySize;
             }
 

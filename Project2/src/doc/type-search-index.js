@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"project2","l":"Project2"},{"p":"project2","l":"SortedWordList"},{"p":"project2","l":"TextFileInput"},{"p":"project2","l":"UnsortedWordList"},{"p":"project2","l":"WordGUI"},{"p":"project2","l":"WordList"},{"p":"project2","l":"WordNode"}];updateSearchResults();

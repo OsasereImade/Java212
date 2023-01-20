@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"project4","l":"FileMenuHandler"},{"p":"project4","l":"WordLine.IllegalWordLineException"},{"p":"project4","l":"Project4"},{"p":"project4","l":"TextFileInput"},{"p":"project4","l":"WordGUI"},{"p":"project4","l":"WordLine"}];updateSearchResults();

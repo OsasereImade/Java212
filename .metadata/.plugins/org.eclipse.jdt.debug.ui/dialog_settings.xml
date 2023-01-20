@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item key="ShowStatusLine" value="true"/>
-		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab6/src&amp;lt;lab6{Lab6Program1.java[Lab6Program1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab7/src&amp;lt;lab7{TwoDimensionArray.java[TwoDimensionArray&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Project1/src&amp;lt;project1{Project1.java[Project1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab7/src&amp;lt;lab7{TwoDimensionArray.java[TwoDimensionArray&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Project1/src&amp;lt;project1{Project1.java[Project1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=lab05/src&amp;lt;lab05{Lab5Program1.java[Lab5Program1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab6/src&amp;lt;lab6{Lab6Program1.java[Lab6Program1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Practice/src&amp;lt;project1{Project1.java[Project1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
 		<section name="DialogBoundsSettings">
 			<item key="DIALOG_HEIGHT" value="500"/>
 			<item key="DIALOG_WIDTH" value="600"/>
