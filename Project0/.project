@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Project0.pdf</name>
+			<type>1</type>
+			<location>C:/Users/imade/Downloads/Project0.pdf</location>
+		</link>
+	</linkedResources>
 </projectDescription>
